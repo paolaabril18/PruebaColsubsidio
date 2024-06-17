@@ -58,5 +58,5 @@ Para ejecutar los scripts de Python y trabajar con este proyecto, se requiere te
 1. Clona o descarga el repositorio en tu máquina local.
 
    ```bash
-   git clone https://github.com/tu-usuario/proyecto-analisis-pandas.git
-   cd proyecto-analisis-pandas
+   git clone https://github.com/paolaabril18/PruebaColsubsidio.git
+   cd PruebaColsubsidio
